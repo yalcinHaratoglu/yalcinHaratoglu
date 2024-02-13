@@ -13,7 +13,7 @@
   <i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."</i>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+<h3>Little facts about me 👦🏻</h3>
 
 - 🧞 I've been a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Front-End Web Development.
