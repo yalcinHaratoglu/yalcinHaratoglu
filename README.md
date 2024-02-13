@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
+ <b>
   <em>
-    Hello, I'm Yalçın, a graduate in Civil Engineering who made a career transition to become a Frontend Developer. Venturing into the world of coding, I am also honing my skills on the backend to evolve into a Full Stack Developer. Embracing change and continuous learning, I am passionate about creating seamless and innovative digital experiences.
+    Hello, I'm Yalçın, a graduate in Civil Engineering who made a career transition to become a Front-End Developer. Venturing into the world of coding, I am also honing my skills on the backend to evolve into a Full Stack Developer. Embracing change and continuous learning, I am passionate about creating seamless and innovative digital experiences.</b></em>
   <br>
     <br>
-  <b><i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."</i></b>
+  <i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."</i>
 </p>
 
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I've been a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development.
+- 🔭 I’m currently working on Front-End Web Development.
 - 👯 I’m looking to collaborate with Fullstack Web Development projects.
 - 💡 Contributing to Open Source Projects is always been a goal for me.
 - ⚡ Fun fact: I love music, and I play the zither.
@@ -97,3 +98,5 @@
   
 <p align="right" > Created with 🖤 by <a href="https://github.com/yalcinHaratoglu">yalcinHaratoglu</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=yalcinHaratoglu&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
+
+<br>
