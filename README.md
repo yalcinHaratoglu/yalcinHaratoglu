@@ -65,13 +65,13 @@
 <br>
 <p align="center">
   <a href="https://github.com/yalcinHaratoglu">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=yalcinHaratoglu&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"/>
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=yalcinHaratoglu&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
   </a>
   <a href="https://github.com/yalcinHaratoglu">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinHaratoglu&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinHaratoglu&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </p>
-  <p align="center"><a href="https://github.com/yalcinHaratoglu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yalcinHaratoglu&theme=vision-friendly-dark&hide_border=true" /></a></a></p>
+  <p align="center"><a href="https://github.com/yalcinHaratoglu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yalcinHaratoglu&theme=chartreuse-dark&hide_border=true" /></a></a></p>
   </details>
 
 ---
