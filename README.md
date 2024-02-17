@@ -97,6 +97,6 @@
   <br>
   
 <p align="right" > Created with 🖤 by <a href="https://github.com/yalcinHaratoglu">yalcinHaratoglu</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=yalcinHaratoglu&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=yalcinHaratoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yalcinHaratoglu" /> </p>
 
 <br>
