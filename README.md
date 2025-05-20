@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on Front-End Web Development.
 - 👯 I’m looking to collaborate with Fullstack Web Development projects.
 - 💡 Contributing to Open Source Projects is always been a goal for me.
-- ⚡ Fun fact: I love music, and I play the zither.
+- ⚡ Fun fact: I love music, and I play the qanun.
 <br>
 
 ---
