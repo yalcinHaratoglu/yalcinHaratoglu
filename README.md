@@ -1,103 +1,102 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm M.Yalçın Haratoğlu</h1>
+# Hi there! 👋 I'm M. Yalçın Haratoğlu
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1ADF3F&center=true&vCenter=true&random=false&width=500&lines=M.Yal%C3%A7%C4%B1n+Harato%C4%9Flu;Front-End+Developer;Civil+Engineer" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Frontend%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Creating%20Digital%20Experiences&descAlignY=55&descSize=18"/>
+</div>
 
-<p align="center">
- <b>
-  <em>
-    Hello, I'm Yalçın, a graduate in Civil Engineering who made a career transition to become a Front-End Developer. Venturing into the world of coding, I am also honing my skills on the backend to evolve into a Full Stack Developer. Embracing change and continuous learning, I am passionate about creating seamless and innovative digital experiences.</b></em>
-  <br>
-    <br>
-  <i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."</i>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=React+Developer+%E2%9A%A1;JavaScript+Enthusiast+%F0%9F%94%A5;Building+Amazing+Apps+%F0%9F%9A%80" alt="Typing Animation" />
+</div>
 
-<h3>Little facts about me 👦🏻</h3>
-
-- 🧞 I've been a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Front-End Web Development.
-- 👯 I’m looking to collaborate with Fullstack Web Development projects.
-- 💡 Contributing to Open Source Projects is always been a goal for me.
 <br>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
-<details open="">
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>  
-<code><a href=https://getbootstrap.com/><img height=30 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></a></code>  
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
- <code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
- <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
- <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
- <code><a href="https://ant.design/" target="_blank"><img height="30" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></a></code>
- <code><a href="https://styled-components.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></a></code>
-</details>
-<br>
+## 🚀 About Me
 
-<details open="">
-<summary>
-  🌱 Looking forward to learn:
-</summary>
-   <br>
- <code><a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
-<code><a href="https://spring.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
-<code><a href="https://strapi.io/" target="_blank"><img height="30" src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=1920,quality=80"></a></code>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+**Frontend Developer** passionate about creating beautiful, responsive web applications and modern user interfaces.
+
+- 🔭 Working on **Modern React Applications**
+- 🌱 Learning **Advanced React Patterns** & **Performance Optimization**
+- 👯 Open to collaborate on **Frontend Projects**
+- 💬 Ask me about **React, TypeScript, UI/UX**
+- 📫 Reach me: **myalcinharatoglu@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code!** ☕
+
+<br clear="both">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,figma,git&theme=dark" />
+
+<br><br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yalcinHaratoglu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinHaratoglu&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yalcinHaratoglu&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yalcinHaratoglu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" />
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
   
-</details>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myalcinharatoglu/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myalcinharatoglu@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_yalcin_hrt)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yalcinharat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/yalcinHaratoglu)
+
+</div>
+
 <br>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
-<p align="center">
-  <a href="https://github.com/yalcinHaratoglu">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=yalcinHaratoglu&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/yalcinHaratoglu">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinHaratoglu&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" />
-  </a>
-</p>
-  <p align="center"><a href="https://github.com/yalcinHaratoglu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yalcinHaratoglu&theme=chartreuse-dark&hide_border=true" /></a></a></p>
-  </details>
-
----
-
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/myalcinharatoglu/">
-   <img align="left" alt=" Yalcin Haratoglu | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:myalcinharatoglu@gmail.com">
-    <img align="left" alt="Yalcin Haratoglu | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://twitter.com/m_yalcin_hrt">
-    <img align="left" alt="Yalcin Haratoglu | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
-  <a href="https://medium.com/@yalcinharat">
-    <img align="left" alt="Yalcin Haratoglu | Medium" width="24px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
-  </a>
-   <a href="https://github.com/yalcinHaratoglu">
-    <img align="left" alt="Yalcin Haratoglu | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
+<div align="center">
   
-<p align="right" > Created with 🖤 by <a href="https://github.com/yalcinHaratoglu">yalcinHaratoglu</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=yalcinHaratoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yalcinHaratoglu" /> </p>
+### 💙 Thanks for visiting! Let's build something amazing together! 🚀
+
+</div>
 
 <br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yalcinHaratoglu&label=Profile%20views&color=6366F1&style=for-the-badge" alt="Profile views" />
+</div>
