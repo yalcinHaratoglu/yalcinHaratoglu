@@ -1,40 +1,7 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Her gün gece 00:00'da çalışacak
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: yalcinHaratoglu
-          outputs: github-contribution-grid-snake.svg
-
-      - name: Fix SVG colors to currentColor for dark mode compatibility
-        run: |
-          sed -i 's/fill="[^"]*"/fill="currentColor"/g' github-contribution-grid-snake.svg
-          sed -i 's/stroke="[^"]*"/stroke="currentColor"/g' github-contribution-grid-snake.svg || echo "No stroke found"
-
-      - name: Commit and Push updated snake
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update GitHub contribution snake with currentColor fix"
-          file_pattern: github-contribution-grid-snake.svg
-          branch: main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs:
+      - dist/github-snake.svg
+      - dist/github-snake-dark.svg?palette=github-dark
+      - dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
