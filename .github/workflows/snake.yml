@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Her gün gece 00:00'da çalışacak
   workflow_dispatch:
   push:
     branches:
@@ -23,12 +23,18 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: yalcinHaratoglu
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg
 
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Fix SVG colors to currentColor for dark mode compatibility
+        run: |
+          sed -i 's/fill="[^"]*"/fill="currentColor"/g' github-contribution-grid-snake.svg
+          sed -i 's/stroke="[^"]*"/stroke="currentColor"/g' github-contribution-grid-snake.svg || echo "No stroke found"
+
+      - name: Commit and Push updated snake
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          target_branch: output
-          build_dir: dist
+          commit_message: "Update GitHub contribution snake with currentColor fix"
+          file_pattern: github-contribution-grid-snake.svg
+          branch: main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
