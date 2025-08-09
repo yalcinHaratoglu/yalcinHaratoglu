@@ -53,12 +53,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
+<img alt="github-snake" src="https://raw.githubusercontent.com/yalcinHaratoglu/yalcinHaratoglu/main/github-snake-dark.svg?palette=github-dark" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yalcinHaratoglu&theme=dark&show_icons=true&hide_border=true&count_private=true"/> -->
 </div>
 
