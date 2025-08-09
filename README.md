@@ -53,12 +53,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yalcinHaratoglu&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinHaratoglu&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="./output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yalcinHaratoglu&theme=dark&show_icons=true&hide_border=true&count_private=true"/> -->
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yalcinHaratoglu&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinHaratoglu&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 ## 🏆 GitHub Trophies
