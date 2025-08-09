@@ -2,11 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gün çalışır
-  workflow_dispatch: # Manuel tetikleme
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
