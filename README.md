@@ -53,7 +53,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yalcinHaratoglu&theme=dark&show_icons=true&hide_border=true&count_private=true"/> -->
 </div>
 
