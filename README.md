@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img alt="github-snake" src="https://github.com/yalcinHaratoglu/yalcinHaratoglu/blob/output/github-contribution-grid-snake-dark.svg" />
+<img alt="github-snake" src="https://github.com/yalcinHaratoglu/yalcinHaratoglu/main/github-contribution-grid-snake-dark.svg" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yalcinHaratoglu&theme=dark&show_icons=true&hide_border=true&count_private=true"/> -->
 </div>
 
