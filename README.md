@@ -20,7 +20,7 @@
 
 **Frontend Developer** passionate about creating beautiful, responsive web applications and modern user interfaces.
 
-- 🔭 Working on **Modern React Applications**
+- 🔭 Working on **Modern React Applications** 
 - 🌱 Learning **Advanced React Patterns** & **Performance Optimization**
 - 👯 Open to collaborate on **Frontend Projects**
 - 💬 Ask me about **React, TypeScript, UI/UX**
