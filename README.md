@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm M. Yalçın Haratoğlu
+# Hi there! 👋 I'm Yalçın Haratoğlu
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Frontend%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Creating%20Digital%20Experiences&descAlignY=55&descSize=18"/>
