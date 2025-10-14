@@ -58,7 +58,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yalcinHaratoglu&theme=dark&hide_border=true" alt="GitHub Streak" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinHaratoglu&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
